@@ -1,7 +1,5 @@
 # Wolfelligence Lab
 
-从地球到火星
-
 ---
 
 ## 关于这个仓库
