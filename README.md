@@ -70,6 +70,7 @@ The architect of this repo. Researcher at the intersection of cognitive psycholo
 | 任务 · Mission | 状态 · Status | 类别 · Classification |
 |---|---|---|
 | 流体海洋 Fliud Ocean | 🟡 飞行中 In transit | 硬件项目 Hardware Project |
+| 野生诗狼实验室 Wild Wolf Poet | 🟡 飞行中 In transit | 创作类 Creative Agent |
 
 ---
 
