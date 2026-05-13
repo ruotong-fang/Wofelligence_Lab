@@ -67,7 +67,7 @@ The architect of this repo. Researcher at the intersection of cognitive psycholo
 
 ## 🛸 当前活跃任务 · Active Missions
 
-| 任务 · Mission | 状态 · Status | 目标 · Destination |
+| 任务 · Mission | 状态 · Status | 类别 · Classification |
 |---|---|---|
 | 流体海洋 Fliud Ocean | 🟡 飞行中 In transit | 硬件项目 Hardware Project |
 
