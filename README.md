@@ -22,7 +22,10 @@ The architect of this repo. Researcher at the intersection of cognitive psycholo
 **主要成分构成 · Composition Breakdown**
 
 🥊 **运动 30%** — 拳击、游泳、跑步、健身、登山、羽毛球、滑雪。热爱程度十颗星，技术水平一颗星。
-**Athletics 30%** — Boxing, swimming, running, hiking, badminton, skiing. Enthusiasm: ★★★★★★★★★★. Actual skill: ★☆☆☆☆☆☆☆☆☆. The gap is the lore.
+**Athletics 30%** — Boxing, swimming, running, hiking, badminton, skiing. 
+Enthusiasm: ★★★★★★★★★★. 
+Actual skill: ★☆☆☆☆☆☆☆☆☆. 
+The gap is the lore.
 
 📷 **文艺 30%** — 国家级专业摄影师（认证官：本人）；博物馆、美术馆忠实观众。
 **The Arts 30%** — Self-certified national-level photographer (the certification authority is also me). Reads every single museum wall label. Every. Single. One.
